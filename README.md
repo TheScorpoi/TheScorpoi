@@ -50,3 +50,5 @@
 📊 **Esta semana programei em:**
 
 ![Pedro stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=TheScorpoi&hide_title=true&hide_border=true&langs_count=5)
+
+## bem isto é so para ver so o wakatime funciona 
