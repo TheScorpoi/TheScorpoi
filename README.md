@@ -44,16 +44,9 @@
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheScorpoi&count_private=true)
+![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=TheScorpoi&count_private=true)
 
 
 📊 **Esta semana programei em:**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=TheScorpoi&hide_title=true&hide_border=true&langs_count=5)
+![Pedro stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=TheScorpoi&hide_title=true&hide_border=true&langs_count=5)
