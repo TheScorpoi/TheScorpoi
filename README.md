@@ -1,29 +1,11 @@
 ### Hello 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-## Só tenho isto, para ver como funcionava...
-
-- 🔭 
-- 🌱 
-- 👯 
-- 🥅 
-- ⚡ 
-
-
-
-### Connect with me:
-
-[<img align="left" alt="Pedro Sobral" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-
 ![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=TheScorpoi&count_private=true)
 
 
-📊 **Esta semana programei em:**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheScorpoi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/TheScorpoi/github-readme-stats)
 
 ![Pedro stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=TheScorpoi&hide_title=true&hide_border=true&langs_count=5)
 
